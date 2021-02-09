@@ -1,0 +1,44 @@
+body
+{background-image: url(a.jpg);
+background-attachment: fixed;
+background-repeat: no-repeat;
+}
+
+
+
+table
+{
+color: white;
+text-align: center;
+width: 50cm;
+border-collapse: collapse;
+margin-top: 1cm;
+}
+
+
+table td
+{
+border: 1px solid black;
+}
+
+
+#a
+{
+background-color: rgba(255, 255, 255, 0.1);
+font-weight: bold;
+}
+
+
+.b
+{
+background-color: rgba(0, 0, 0, 0.1);
+border: 1px solid black;
+font-family: 'Times New Roman', Times, serif;
+}
+
+
+table td
+{
+color: rgb(0, 255, 0);
+border: 1px solid black;
+}
